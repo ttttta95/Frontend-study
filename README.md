@@ -4,3 +4,9 @@
 
 ### 🌐 React
 - [가상 돔 (Virtual DOM) 이해하기](./react/virtual-dom.md)
+
+### 🐥 JavaScript
+- [클로저란? (Closure)](./javascript/closure.md)
+
+### 🌏 Web
+- [REST API란?](./web/REST-API.md)
