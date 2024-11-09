@@ -9,6 +9,6 @@
 - DOM이란 `HTML element들을 tree 형태`로 표현한 것이다.
 - 개발자들은 DOM이 제공하는 API를 통해 DOM 구조에 접근을 하고, 원하는 Element들을 조작할 수 있다.
 
-그렇다면 Virtual DOM이라는 것은 무엇일까?
+그렇다면 Virtual DOM이라는 것은 과연 무엇일까?
 
 <br />
